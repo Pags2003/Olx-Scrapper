@@ -37,7 +37,6 @@ A Python-based web scraper that extracts listings from OLX using Selenium. The s
    - OLX URL (modify inside the script)
    Scraped data will be saved in a CSV file (output.csv by default).
 
-## 📂 Output Sample
 
 ## 📂 Output Sample
 
