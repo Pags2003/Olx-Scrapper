@@ -41,11 +41,10 @@ A Python-based web scraper that extracts listings from OLX using Selenium. The s
 
 ## 📂 Output Sample
 
-| Title                                                     | Price          | Details                     | Location               | Posted Time | Link                                                                                                                            |
-|-----------------------------------------------------------|----------------|-----------------------------|------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------|
-| `107 Gaj home with covered car parking near by main market` | `₹ 45,00,000.00` | `2 Bds - 1 Ba - 900 ft²`     | `JAWAHAR COLONY, FARIDABAD` | `APR 26`    | [View Listing](https://www.olx.in/item/for-sale-houses-apartments-c1725-2-bhk-houses-villas-900-sq-ft-in-jawahar-colony-faridabad-iid-1789276286) |
-| `2BHK Flat at shivane with covered car parking Brand new condition` | `₹ 37,99,000.00` | `2 BHK - 2 Bathroom - 1100 sqft` | `SHIVANE, PUNE`          | `3 DAYS AGO` | [View Listing](https://www.olx.in/item/for-sale-houses-apartments-c1725-2-bhk-apartments-1100-sq-ft-in-shivane-pune-iid-1803879123)                |
-
+| Title                       | Price        | Details | Location                 | Posted Time | Link                                                                                                                   |
+|-----------------------------|--------------|---------|--------------------------|-------------|------------------------------------------------------------------------------------------------------------------------|
+| `Car Cover and Power Steering pump` | `₹ 5,500.00`  |         | `PARDHASARDI NAGAR, MANDAPETA` | `TODAY`      | [View Listing](https://www.olx.in/item/spare-parts-c1585-other-spare-parts-in-pardhasardi-nagar-mandapeta-iid-1807070098) |
+| `new car cover`              | `₹ 2,000.00` |         | `KISHANPURA, WARANGAL`   | `TODAY`      | [View Listing](https://www.olx.in/item/spare-parts-c1585-other-spare-parts-in-kishanpura-warangal-iid-1807295554)        |
 
 
 
